@@ -23,3 +23,6 @@ With this project, I am building a machine learning model to classify the text m
 3. Run your web app: `python run.py`
 
 4. Click the `PREVIEW` button to open the homepage
+
+### Reference:
+This project refers to the random forest approch from Github pository: https://github.com/atwahsz/Disaster-Response-Pipeline
