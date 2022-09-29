@@ -21,7 +21,6 @@ from sklearn.metrics import classification_report
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem.porter import PorterStemmer
-
 nltk.download(['wordnet', 'punkt', 'stopwords']) 
 
 
