@@ -61,7 +61,7 @@ def clean_data(df):
         # convert column from string to numeric
         categories[column] = categories[column].astype(int) 
       
-    
+    categories = categories[categories["related"] < 2]
     # drop the original categories column from `df`
     df = df.drop(['categories'],axis = 1)
     
