@@ -25,4 +25,4 @@ With this project, I am building a machine learning model to classify the text m
 4. Click the `PREVIEW` button to open the homepage
 
 ### Reference:
-This project refers to the random forest approch from Github pository: https://github.com/atwahsz/Disaster-Response-Pipeline
+This project referred to the random forest classifier generation from Github pository: https://github.com/atwahsz/Disaster-Response-Pipeline
